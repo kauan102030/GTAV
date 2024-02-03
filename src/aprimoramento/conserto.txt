@@ -1,0 +1,7 @@
+Título compatível com title - resolvido
+Fontes compatíveis - resolvido
+Cor do botão laranja ou amarelo - resolvido
+centralizar botão - resolvido
+Mudar largura do home h1, p - resolvido
+Título como texto - resolvido
+Poupar usuário de cliques
